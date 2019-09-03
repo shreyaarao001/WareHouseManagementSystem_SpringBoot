@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 import com.example.demo.entity.CustomerInfo;
 import com.example.demo.interfaces.CustomerInterface;
 /*
- * These class is like dao where we will can update,save and delete.
+ * These class is like dao where we  can update,save and delete.
  */
 @Service
 @Component
