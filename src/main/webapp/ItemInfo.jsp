@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<%@page import="com.example.demo.entity.ItemInfo"%>
+<%@page import="com.warehousemanagement.Bean.ItemInfo"%>
 <html>
 <head>
 <meta charset="UTF-8">

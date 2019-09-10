@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8" import="com.example.demo.entity.*" 
+    pageEncoding="UTF-8" import="com.warehousemanagement.Bean.*" 
     import="com.example.demo.interfaces.*"
     import="org.springframework.web.servlet.ModelAndView"%>
 <!DOCTYPE html>

@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"
-    import="com.example.demo.entity.*"
+    import="com.warehousemanagement.Bean.*"
     import="java.util.*"%>
 <!DOCTYPE html>
 <html>
